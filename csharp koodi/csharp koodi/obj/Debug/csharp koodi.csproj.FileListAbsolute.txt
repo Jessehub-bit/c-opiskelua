@@ -1,0 +1,6 @@
+C:\Users\Jesse.hotarinen\Documents\repositiot\c-opiskelua\csharp koodi\csharp koodi\obj\Debug\csharp koodi.csprojAssemblyReference.cache
+C:\Users\Jesse.hotarinen\Documents\repositiot\c-opiskelua\csharp koodi\csharp koodi\obj\Debug\csharp_koodi.nappi1.resources
+C:\Users\Jesse.hotarinen\Documents\repositiot\c-opiskelua\csharp koodi\csharp koodi\obj\Debug\csharp_koodi.Properties.Resources.resources
+C:\Users\Jesse.hotarinen\Documents\repositiot\c-opiskelua\csharp koodi\csharp koodi\obj\Debug\csharp koodi.csproj.GenerateResource.cache
+C:\Users\Jesse.hotarinen\Documents\repositiot\c-opiskelua\csharp koodi\csharp koodi\obj\Debug\csharp koodi.csproj.CoreCompileInputs.cache
+C:\Users\Jesse.hotarinen\Documents\repositiot\c-opiskelua\csharp koodi\csharp koodi\obj\Debug\csharp_koodi.xxx.resources
